@@ -70,8 +70,8 @@
         <mxCell id="ah9vz5HkywCwEiQIVvDx-25" value="&lt;b&gt;Hasta yatış kaybı hastane bilgi yönetim sistemine yapılır.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="-40" width="580" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ah9vz5HkywCwEiQIVvDx-28" value="Uygun yatak mevcut mu?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="50" width="120" height="80" as="geometry" />
+        <mxCell id="ah9vz5HkywCwEiQIVvDx-28" value="&lt;b&gt;Uygun yatak mevcut mu?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="50" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
