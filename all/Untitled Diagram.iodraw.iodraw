@@ -10,11 +10,14 @@
         <mxCell id="ah9vz5HkywCwEiQIVvDx-1" value="Hastanın Hastaneye Basvurması" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ah9vz5HkywCwEiQIVvDx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ah9vz5HkywCwEiQIVvDx-2" target="ah9vz5HkywCwEiQIVvDx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ah9vz5HkywCwEiQIVvDx-2" value="Hekim tarafından hastanın yatışına karar verilmesi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ah9vz5HkywCwEiQIVvDx-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-420" width="80" height="80" as="geometry" />
+          <mxGeometry x="370" y="-420" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
