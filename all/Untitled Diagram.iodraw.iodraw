@@ -100,7 +100,7 @@
         <mxCell id="ah9vz5HkywCwEiQIVvDx-36" value="&lt;b&gt;Hasta ilgili servise yönlendirilir.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ah9vz5HkywCwEiQIVvDx-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ah9vz5HkywCwEiQIVvDx-38" value="Hastanın servise yatışı yapılır." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
