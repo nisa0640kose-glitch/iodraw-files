@@ -76,7 +76,7 @@
         <mxCell id="ah9vz5HkywCwEiQIVvDx-30" value="Hasta uygun yatak bulunana kadar bekleme listesine alınır." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ah9vz5HkywCwEiQIVvDx-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ah9vz5HkywCwEiQIVvDx-31" value="Hastaya uygun servis ve oda belirlenir." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
