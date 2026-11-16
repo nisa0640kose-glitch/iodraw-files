@@ -85,8 +85,8 @@
         <mxCell id="ah9vz5HkywCwEiQIVvDx-31" value="&lt;b&gt;Hastaya uygun servis ve oda belirlenir.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ah9vz5HkywCwEiQIVvDx-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="ah9vz5HkywCwEiQIVvDx-34" value="Hasta dosyası hazırlanır." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
