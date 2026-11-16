@@ -7,7 +7,7 @@
         <mxCell id="ah9vz5HkywCwEiQIVvDx-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ah9vz5HkywCwEiQIVvDx-1" target="ah9vz5HkywCwEiQIVvDx-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ah9vz5HkywCwEiQIVvDx-1" value="&lt;b&gt;Hastanın Hastaneye Basvurması&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ah9vz5HkywCwEiQIVvDx-1" value="&lt;b&gt;Hastanın Hastaneye Basvurması&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="350" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ah9vz5HkywCwEiQIVvDx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ah9vz5HkywCwEiQIVvDx-2" target="ah9vz5HkywCwEiQIVvDx-4">
@@ -64,7 +64,7 @@
         <mxCell id="ah9vz5HkywCwEiQIVvDx-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;" edge="1" parent="1" source="ah9vz5HkywCwEiQIVvDx-22" target="ah9vz5HkywCwEiQIVvDx-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ah9vz5HkywCwEiQIVvDx-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="ah9vz5HkywCwEiQIVvDx-22" target="ah9vz5HkywCwEiQIVvDx-25">
+        <mxCell id="ah9vz5HkywCwEiQIVvDx-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82B366;" edge="1" parent="1" source="ah9vz5HkywCwEiQIVvDx-22" target="ah9vz5HkywCwEiQIVvDx-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ah9vz5HkywCwEiQIVvDx-22" value="&lt;b&gt;Ücretli hasta işlemleri yapılır.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
