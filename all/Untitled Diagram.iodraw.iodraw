@@ -25,16 +25,6 @@
         <mxCell id="ah9vz5HkywCwEiQIVvDx-4" value="&lt;b&gt;Yatış kararı verildi mi?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="-420" width="350" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ah9vz5HkywCwEiQIVvDx-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="-720" as="sourcePoint" />
-            <mxPoint x="445" y="536" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="425" y="-680" />
-              <mxPoint x="426" y="-680" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ah9vz5HkywCwEiQIVvDx-6" value="&lt;b&gt;Ayaktan tedavi sürecine yönlendirilir.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="-410" width="120" height="60" as="geometry" />
         </mxCell>
