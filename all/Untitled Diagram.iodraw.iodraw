@@ -7,7 +7,7 @@
         <mxCell id="ah9vz5HkywCwEiQIVvDx-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ah9vz5HkywCwEiQIVvDx-1" target="ah9vz5HkywCwEiQIVvDx-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ah9vz5HkywCwEiQIVvDx-1" value="Hastanın Hastaneye Basvurması" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ah9vz5HkywCwEiQIVvDx-1" value="&lt;b&gt;Hastanın Hastaneye Basvurması&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ah9vz5HkywCwEiQIVvDx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ah9vz5HkywCwEiQIVvDx-2" target="ah9vz5HkywCwEiQIVvDx-4">
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="ah9vz5HkywCwEiQIVvDx-25" value="&lt;b&gt;Hasta yatış kaybı hastane bilgi yönetim sistemine yapılır.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="-40" width="580" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ah9vz5HkywCwEiQIVvDx-28" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-80" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
