@@ -67,7 +67,7 @@
         <mxCell id="ah9vz5HkywCwEiQIVvDx-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="ah9vz5HkywCwEiQIVvDx-25" target="ah9vz5HkywCwEiQIVvDx-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ah9vz5HkywCwEiQIVvDx-25" value="&lt;b&gt;Hasta yatış kaybı hastane bilgi yönetim sistemine yapılır.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ah9vz5HkywCwEiQIVvDx-25" value="&lt;b&gt;Hasta yatış kaybı hastane bilgi yönetim sistemine yapılır.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="450" y="-40" width="580" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ah9vz5HkywCwEiQIVvDx-32" value="EVET" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="ah9vz5HkywCwEiQIVvDx-28" target="ah9vz5HkywCwEiQIVvDx-31">
@@ -79,7 +79,7 @@
         <mxCell id="ah9vz5HkywCwEiQIVvDx-28" value="&lt;b&gt;Uygun yatak mevcut mu?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="670" y="50" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ah9vz5HkywCwEiQIVvDx-30" value="&lt;b&gt;Hasta uygun yatak bulunana kadar bekleme listesine alınır.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ah9vz5HkywCwEiQIVvDx-30" value="&lt;b&gt;Hasta uygun yatak bulunana kadar bekleme listesine alınır.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="460" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ah9vz5HkywCwEiQIVvDx-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="ah9vz5HkywCwEiQIVvDx-31" target="ah9vz5HkywCwEiQIVvDx-34">
@@ -100,7 +100,7 @@
         <mxCell id="ah9vz5HkywCwEiQIVvDx-36" value="&lt;b&gt;Hasta ilgili servise yönlendirilir.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="900" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ah9vz5HkywCwEiQIVvDx-38" value="&lt;b&gt;Hastanın servise yatışı yapılır.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ah9vz5HkywCwEiQIVvDx-38" value="&lt;b&gt;Hastanın servise yatışı yapılır.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="900" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ah9vz5HkywCwEiQIVvDx-40" value="&lt;b&gt;Hastanın yatış süreci tamamlanır.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
