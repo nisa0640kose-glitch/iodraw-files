@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.7.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="M22aAJ3dv9lrxiXozeqy">
-    <mxGraphModel dx="750" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,9 +99,6 @@
         </mxCell>
         <mxCell id="ah9vz5HkywCwEiQIVvDx-36" value="&lt;b&gt;Hasta ilgili servise yönlendirilir.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ah9vz5HkywCwEiQIVvDx-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ah9vz5HkywCwEiQIVvDx-38" target="ah9vz5HkywCwEiQIVvDx-40">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ah9vz5HkywCwEiQIVvDx-38" value="&lt;b&gt;Hastanın servise yatışı yapılır.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="380" width="120" height="60" as="geometry" />
