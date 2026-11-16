@@ -88,11 +88,14 @@
         <mxCell id="ah9vz5HkywCwEiQIVvDx-31" value="&lt;b&gt;Hastaya uygun servis ve oda belirlenir.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ah9vz5HkywCwEiQIVvDx-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ah9vz5HkywCwEiQIVvDx-34" target="ah9vz5HkywCwEiQIVvDx-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ah9vz5HkywCwEiQIVvDx-34" value="&lt;b&gt;Hasta dosyası hazırlanır.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ah9vz5HkywCwEiQIVvDx-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="ah9vz5HkywCwEiQIVvDx-36" value="Hasta ilgili servise yönlendirilir." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
